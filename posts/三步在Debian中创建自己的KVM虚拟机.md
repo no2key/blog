@@ -3,7 +3,7 @@ title: 三步在Debian中创建自己的KVM虚拟机
 date: '2012-08-15 08:06:04'
 description: 
 tags: 
-categories: ['Linux''软件'']
+categories: ['Linux' '软件']
 ---
 
 1 电脑一台，必须的，并且注意必须要支持VT-x，同时在BIOS中Enable。然后就安装Debian吧，推荐64位的6.0版本，安装过程基本都是下一步，就不用详细介绍了。

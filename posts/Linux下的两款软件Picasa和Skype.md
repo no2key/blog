@@ -3,7 +3,7 @@ title: Linux下的两款软件Picasa和Skype
 date: '2007-04-04 14:51:09'
 description: 
 tags: 
-categories: ['Linux'']
+categories: ['Linux']
 ---
 
 我后悔了，因为这是我第二次写这篇文档。因为刚才写完后发表居然失败了。我决定要寻找一款离线博客编写软件了。

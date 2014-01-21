@@ -3,7 +3,7 @@ title: 自己动手编写c++事件模型
 date: '2006-07-30 06:38:00'
 description: 
 tags: 
-categories: ['C''&amp;''C++'']
+categories: ['C &amp; C++']
 ---
 
 

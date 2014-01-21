@@ -3,7 +3,7 @@ title: 好用的上网小工具：Google笔记本
 date: '2007-04-14 07:01:45'
 description: 
 tags: 
-categories: ['Web'']
+categories: ['Web']
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; 首先声明，我跟Google没有任何关系，只是觉得这个工具对我的用处还可以，所以介绍介绍！

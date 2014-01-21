@@ -2,8 +2,8 @@
 title: Tornado在Windows下解析文件mime类型错误一则及解决
 date: '2011-02-15 08:13:06'
 description: 
-tags: ['mime''python''tornado''unicodedecoderror''windows'']
-categories: ['Python''技术'']
+tags: ['mime' 'python' 'tornado' 'unicodedecoderror' 'windows']
+categories: ['Python' '技术']
 ---
 
 今日遇到一则错误，tornado服务器在解析文件的mime类型时报错，无法获取，错误如下。

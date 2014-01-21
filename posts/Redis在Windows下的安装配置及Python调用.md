@@ -2,8 +2,8 @@
 title: Redis在Windows下的安装配置及Python调用
 date: '2011-05-17 07:42:30'
 description: 
-tags: ['python''redis''redis-py''windows''安装'']
-categories: ['NoSQL''技术'']
+tags: ['python' 'redis' 'redis-py' 'windows' '安装']
+categories: ['NoSQL' '技术']
 ---
 
 Redis是一个Key-Value数据库，优点是简单，高效，稳定；缺点是所有数据存放于内存（会定期dump到磁盘），当然内存小时可以配置虚拟内存，不过性能会有所下降。

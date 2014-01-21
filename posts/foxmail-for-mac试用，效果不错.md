@@ -2,8 +2,8 @@
 title: foxmail for mac试用，效果不错
 date: '2013-03-12 09:51:00'
 description: 
-tags: ['foxmail''mac''sparrow'']
-categories: ['mac''mail'']
+tags: ['foxmail' 'mac' 'sparrow']
+categories: ['mac' 'mail']
 ---
 
 foxmail for mac v1.0 今天发布了。链接地址：[http://foxmail.com.cn/mac/](http://foxmail.com.cn/mac/)，

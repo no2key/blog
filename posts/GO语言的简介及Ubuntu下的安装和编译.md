@@ -3,7 +3,7 @@ title: GO语言的简介及Ubuntu下的安装和编译
 date: '2010-01-12 05:40:00'
 description: 
 tags: 
-categories: ['GO'']
+categories: ['GO']
 ---
 
 

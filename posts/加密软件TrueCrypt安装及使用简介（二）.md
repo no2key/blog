@@ -2,8 +2,8 @@
 title: 加密软件TrueCrypt安装及使用简介（二）
 date: '2010-12-21 08:12:02'
 description: 
-tags: ['TrueCrypt''U盘''加密''安装''开源''磁盘'']
-categories: ['信息安全''软件'']
+tags: ['TrueCrypt' 'U盘' '加密' '安装' '开源' '磁盘']
+categories: ['信息安全' '软件']
 ---
 
 # 3       TrueCrypt使用

@@ -2,8 +2,8 @@
 title: 用VBScript实现生成目录树以Excel格式保存
 date: '2011-07-04 01:03:32'
 description: 
-tags: ['excel''vbscript''目录树'']
-categories: ['VBScript''技术'']
+tags: ['excel' 'vbscript' '目录树']
+categories: ['VBScript' '技术']
 ---
 
 帮朋友实现这个功能，本想采用Python，熟门熟路的，但是朋友机器可能没有安装。对于小白，担心他会有更多的麻烦，只好试试好久没用的VBScript了。保存为Excel格式其实偷了懒，保存的是HTML格式，不过可以很容易的转到Excel中。实现代码如下：

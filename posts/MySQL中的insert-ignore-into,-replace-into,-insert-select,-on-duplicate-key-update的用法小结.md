@@ -2,8 +2,8 @@
 title: MySQL中的insert ignore into, replace into, insert select, on duplicate key update的用法小结
 date: '2011-05-23 04:29:27'
 description: 
-tags: ['insert''select''on''duplicate''key''ignore''mysql''update''replace''into'']
-categories: ['MySQL''技术'']
+tags: ['insert ignore' 'insert select' 'mysql' 'on duplicate key update' 'replace into']
+categories: ['MySQL' '技术']
 ---
 
 在MySQL中进行条件插入数据时，可能会用到以下语句，现小结一下。我们先建一个简单的表来作为测试：

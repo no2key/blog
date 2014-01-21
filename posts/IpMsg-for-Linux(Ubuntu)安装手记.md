@@ -2,8 +2,8 @@
 title: IpMsg for Linux(Ubuntu)安装手记
 date: '2007-12-09 11:55:29'
 description: 
-tags: ['IPMsg''Linux''Ubuntu'']
-categories: ['Linux''Linux&amp;Ubuntu''软件'']
+tags: ['IPMsg' 'Linux' 'Ubuntu']
+categories: ['Linux' 'Linux&amp;Ubuntu' '软件']
 ---
 
 ipmsg是一个开源的局域网消息和文件传送工具，其最大的优点是可以直接传送文件夹，并且传送速度非常快。ipmsg目前已有了windows, mac, linux版本。为了从我的Linux（Ubuntu 7.04）传送文件到局域网内一台windows机器，我试着安装了一下。

@@ -2,8 +2,8 @@
 title: [转]VIM快捷键大全
 date: '2013-02-27 02:49:39'
 description: 
-tags: ['vim'']
-categories: ['Vim'']
+tags: ['vim']
+categories: ['Vim']
 ---
 
 VIM快捷键大全  
