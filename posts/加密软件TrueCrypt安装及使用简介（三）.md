@@ -2,21 +2,22 @@
 title: 加密软件TrueCrypt安装及使用简介（三）
 date: '2010-12-21 08:14:49'
 description: 
-categories: ['TrueCrypt', 'U盘', '信息安全', '加密', '安装', '开源', '磁盘', '软件']
+tags: ['TrueCrypt''U盘''加密''安装''开源''磁盘'']
+categories: ['信息安全''软件'']
 ---
 
 ## 3.4   创建分区/U盘加密卷
 
 创建U盘加密卷和创建文件型加密卷过程大致相同。如图3-15所示，在主界面选择【创建加密卷】后，选择【加密非系统分区/设备】。
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-15.jpg "3-15")](http://www.lunny.info/wp-content/uploads/2010/12/3-15.jpg)
+[![3-15](http://www.lunny.info/wp-content/uploads/2010/12/3-15.jpg "3-15")](http://www.lunny.info/wp-content/uploads/2010/12/3-15.jpg)
 
 图3-15
 
 
 点击【下一步】，将出现卷类型的界面，这个和文件型卷是相同的。这里我们以“隐藏的TrueCrypt”为例进行讲解。如图3-16所示。
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-16.jpg "3-16")](http://www.lunny.info/wp-content/uploads/2010/12/3-16.jpg)
+[![3-16](http://www.lunny.info/wp-content/uploads/2010/12/3-16.jpg "3-16")](http://www.lunny.info/wp-content/uploads/2010/12/3-16.jpg)
 
 图3-16
 
@@ -24,13 +25,13 @@ categories: ['TrueCrypt', 'U盘', '信息安全', '加密', '安装', '开源', 
 
 点击【下一步】之后将到一个加密卷模式选择界面，这个界面在选择【隐藏卷】时有，在选择【标准卷】时是没有的。这里可以选择【常规模式】，即新创建卷，如果选择【直接模式】则会在已有的标准卷中新增一个隐藏卷。
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-17.jpg "3-17")](http://www.lunny.info/wp-content/uploads/2010/12/3-17.jpg)
+[![3-17](http://www.lunny.info/wp-content/uploads/2010/12/3-17.jpg "3-17")](http://www.lunny.info/wp-content/uploads/2010/12/3-17.jpg)
 
 图3-17
 
 这里我们选择【常规模式】，点击【下一步】，将会到一个选择加密分区或设备的界面。如图3-18所示：
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-18.jpg "3-18")](http://www.lunny.info/wp-content/uploads/2010/12/3-18.jpg)
+[![3-18](http://www.lunny.info/wp-content/uploads/2010/12/3-18.jpg "3-18")](http://www.lunny.info/wp-content/uploads/2010/12/3-18.jpg)
 
 图3-18
 
@@ -42,13 +43,13 @@ categories: ['TrueCrypt', 'U盘', '信息安全', '加密', '安装', '开源', 
 
 选择好设备后，点击【确定】，并点击【下一步】，会弹出【外层加密卷】的界面，先进行外层加密卷的设置，如图3-19所示。
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-19.jpg "3-19")](http://www.lunny.info/wp-content/uploads/2010/12/3-19.jpg)
+[![3-19](http://www.lunny.info/wp-content/uploads/2010/12/3-19.jpg "3-19")](http://www.lunny.info/wp-content/uploads/2010/12/3-19.jpg)
 
 图3-19
 
 接下来的步骤和创建文件型加密卷并无区别，这里需要注意的是，最后一步会对磁盘分区进行格式化，所以请注意先备份该分区中原有的数据。
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-20.jpg "3-20")](http://www.lunny.info/wp-content/uploads/2010/12/3-20.jpg)
+[![3-20](http://www.lunny.info/wp-content/uploads/2010/12/3-20.jpg "3-20")](http://www.lunny.info/wp-content/uploads/2010/12/3-20.jpg)
 
 图3-20
 
@@ -62,7 +63,7 @@ categories: ['TrueCrypt', 'U盘', '信息安全', '加密', '安装', '开源', 
 
 这里有一点需要注意的，如果创建了隐藏卷。那么输入标准卷密码程序时就加载标准卷；输入隐藏卷密码就加载隐藏卷。如果加载了一个卷，就不能加载另一个卷了。两个卷同时只能加载一个。
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-21.jpg "3-21")](http://www.lunny.info/wp-content/uploads/2010/12/3-21.jpg)
+[![3-21](http://www.lunny.info/wp-content/uploads/2010/12/3-21.jpg "3-21")](http://www.lunny.info/wp-content/uploads/2010/12/3-21.jpg)
 
 图3-21
 
@@ -74,6 +75,6 @@ categories: ['TrueCrypt', 'U盘', '信息安全', '加密', '安装', '开源', 
 
 在加密卷已经载入后，点击界面上的【加密卷工具】，将会弹出一个菜单，第一个菜单项即为修改加密卷密码。
 
-[![](http://www.lunny.info/wp-content/uploads/2010/12/3-22.jpg "3-22")](http://www.lunny.info/wp-content/uploads/2010/12/3-22.jpg)
+[![3-22](http://www.lunny.info/wp-content/uploads/2010/12/3-22.jpg "3-22")](http://www.lunny.info/wp-content/uploads/2010/12/3-22.jpg)
 
 图3-22

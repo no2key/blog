@@ -2,7 +2,8 @@
 title: Firefox 扩展 Flashblock
 date: '2008-03-14 14:57:54'
 description: 
-categories: ['Firefox', 'firefox 扩展 flash', '软件']
+tags: ['firefox''扩展''flash'']
+categories: ['Firefox''软件'']
 ---
 
 现在用Flash的东东太多，广告/网络视频/某些网络应用等等，估计将来这个趋势也将会继续。这个Firefox扩展可以阻止

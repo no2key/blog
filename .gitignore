@@ -1,2 +1,4 @@
 gorimport
 wordpress*
+.tmp_partials
+compiled

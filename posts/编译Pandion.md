@@ -2,7 +2,8 @@
 title: 编译Pandion
 date: '2011-03-11 04:35:56'
 description: 
-categories: ['IM', 'pandion', 'VC++ Express 2010', 'Wix', 'XMPP', '下载', '技术', '潘迪安', '编译']
+tags: ['2010''下载''pandion''VC++''Express''Wix''XMPP''潘迪安''编译'']
+categories: ['IM''技术'']
 ---
 
 Pandion（潘迪安）是一款Windows平台下的XMPP客户端，因其界面比较简洁，所以引起了我的兴趣。详细信息可访问http://pandion.im/

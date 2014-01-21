@@ -2,7 +2,8 @@
 title: 手写JS代码，十行搞定ajax异步请求！！！
 date: '2011-04-26 05:54:57'
 description: 
-categories: ['ajax', 'Javascript', 'Javascript', 'js', 'XMLHttpRequest', '异步请求', '技术']
+tags: ['ajax''Javascript''js''XMLHttpRequest''异步请求'']
+categories: ['Javascript''技术'']
 ---
 
 据说要创业的人都必须会讲故事，好吧，我开始忽悠了。

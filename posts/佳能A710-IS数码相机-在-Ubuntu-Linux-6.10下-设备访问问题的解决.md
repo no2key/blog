@@ -2,7 +2,8 @@
 title: 佳能A710 IS数码相机 在 Ubuntu Linux 6.10下 设备访问问题的解决
 date: '2007-04-21 14:45:58'
 description: 
-categories: ['Linux&amp;Ubuntu']
+tags: 
+categories: ['Linux&amp;Ubuntu'']
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; 虽然7.04已经发布了，不过我还没来得及更新。买了相机拍照后要将图片导入到电脑中，将相机连接到usb口，此时会弹出框显示检测到了数码相机，在导入照片时却出现如下错误：

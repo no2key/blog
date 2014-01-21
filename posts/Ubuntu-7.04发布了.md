@@ -2,7 +2,8 @@
 title: Ubuntu 7.04发布了
 date: '2007-04-20 05:08:52'
 description: 
-categories: ['Linux&amp;Ubuntu']
+tags: 
+categories: ['Linux&amp;Ubuntu'']
 ---
 
 官方下载地址：

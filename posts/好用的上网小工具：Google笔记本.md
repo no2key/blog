@@ -2,7 +2,8 @@
 title: 好用的上网小工具：Google笔记本
 date: '2007-04-14 07:01:45'
 description: 
-categories: ['Web']
+tags: 
+categories: ['Web'']
 ---
 
 &nbsp; &nbsp; &nbsp; &nbsp; 首先声明，我跟Google没有任何关系，只是觉得这个工具对我的用处还可以，所以介绍介绍！
@@ -15,8 +16,8 @@ categories: ['Web']
 
 &nbsp; &nbsp; &nbsp; &nbsp; 登录之后，你就可以下载浏览器插件了，目前支持IE和firefox，安装好插件重启浏览器之后，它会在浏览器状态栏的最右有一个图标和文字。
 
-         ![](http://photo.yo2.cn/photos/7/604460px.jpg)
+         ![image](http://photo.yo2.cn/photos/7/604460px.jpg)
 
 &nbsp; &nbsp; &nbsp; &nbsp; 接下来，我们就可以使用这个工具了。在浏览器复制内容后，点击浏览器右下脚的“打开笔记本”，就会显示“我的笔记本”，我们可以将内容粘贴到其中。到了另外一个地点，我们可以登录google去获得，免了U盘的烦恼，也免了电脑数据丢失造成的麻烦。
 
-![](http://photo.yo2.cn/photos/7/605460px.jpg)
+![image](http://photo.yo2.cn/photos/7/605460px.jpg)

@@ -2,7 +2,8 @@
 title: Hibernate中映射枚举类型
 date: '2010-12-03 03:34:49'
 description: 
-categories: ['Enum', 'Hiberante', 'Hibernate', 'Mapping', '映射', '枚举']
+tags: ['Enum''Hiberante''Mapping''映射''枚举'']
+categories: ['Hibernate'']
 ---
 
 Hibernate中提供了org.hibernate.type.EnumType类来进行枚举类型的映射，可以将枚举实例的name或者ordinal映射到数据库，具体在HBM文件中配置如下：

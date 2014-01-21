@@ -2,7 +2,8 @@
 title: Python实现图书10位ISBN号转换为13位
 date: '2011-05-25 05:28:03'
 description: 
-categories: ['10', '13', 'ISBN', 'Python', 'python', '图书', '技术', '转换']
+tags: ['10''13''ISBN''python''图书''转换'']
+categories: ['Python''技术'']
 ---
 
 &nbsp; &nbsp; ISBN是图书的一个国际通用编号，详细信息可参考维基百科中的词条：[http://zh.wikipedia.org/wiki/ISBN](http://zh.wikipedia.org/wiki/ISBN)。
